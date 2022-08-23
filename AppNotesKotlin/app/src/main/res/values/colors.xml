@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#77A7EF</color>
+    <color name="primaryDark">#498AEA</color>
+    <color name="secondary">#FEEAA5</color>
+    <color name="primaryText">#212121</color>
+    <color name="secondaryText">#757575</color>
+    <color name="landingBackgroundCenter">#DC000000</color>
+    <color name="landingBackgroundEnd">#F6000000</color>
+    <color name="buttonSavedImages">#81C784</color>
+    <color name="buttonEditNewImage">#FFB74D</color>
+    <color name="white">#FFFFFF</color>
+    <color name="colorPrimary">#292929</color>
+    <color name="colorPrimaryDark">#292929</color>
+    <color name="colorAccent">#FDBE3B</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorSearchIcon">#DBDBDB</color>
+    <color name="colorTextHint">#7B7B7B</color>
+    <color name="colorQuickActionBackground">#2F2D2E</color>
+    <color name="colorIcons">#A4A4A4</color>
+    <color name="colorTextSubtitle">#CECECE</color>
+    <color name="colorDefaultNoteColor">#333333</color>
+    <color name="colorNoteSubtitleText">#FAFAFA</color>
+    <color name="colorMiscellaneousBackground">#1F1F1F</color>
+    <color name="colorNoteColer2">#FDBE3B</color>
+    <color name="colorNoteColer3">#FF4842</color>
+    <color name="colorNoteColer4">#3A52Fc</color>
+    <color name="colorNoteColer5">#000000</color>
+    <color name="colorDelete">#FF4842</color>
+    <color name="colorSearchBackground">#333333</color>
+</resources>
